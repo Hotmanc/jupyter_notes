@@ -1,6 +1,4 @@
 # jupyter_notes
-Random stuff made during various stages of life.
-
 
   Decompiler.ipynb:
     Converts all .pyc / .pyd (specified) in a specified folder to .py.
